@@ -50,5 +50,5 @@ Este é meu primeiro projeto utilizando **React** com **Vite**. A aplicação é
 
 ---
 
-##Deploy:
-[Visite o site](https://primeiro-react-sigma.vercel.app/)
+## 📡Deploy:
+https://primeiro-react-sigma.vercel.app/
