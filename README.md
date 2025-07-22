@@ -15,8 +15,6 @@ Este é meu primeiro projeto utilizando **React** com **Vite**. A aplicação é
 
 > ✨ Confira o projeto online: [https://meu-projeto.vercel.app](https://meu-projeto.vercel.app)
 
-![Preview](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
 ---
 
 ## 🛠️ Tecnologias Utilizadas
