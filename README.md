@@ -47,3 +47,8 @@ Este é meu primeiro projeto utilizando **React** com **Vite**. A aplicação é
 
     ```bash
     npm run dev
+
+---
+
+##Deploy:
+[Visite o site](https://primeiro-react-sigma.vercel.app/)
