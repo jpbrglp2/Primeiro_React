@@ -1,12 +1,56 @@
-# React + Vite
+# 🚀 Primeiro Projeto com React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Descrição
 
-## Expanding the ESLint configuration
+Este é meu primeiro projeto utilizando **React** com **Vite**. A aplicação é focada no aprendizado de estruturação de componentes, estilização com CSS e manipulação de eventos e estados com `useState`.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Preview
+
+> ✨ Confira o projeto online: [https://meu-projeto.vercel.app](https://meu-projeto.vercel.app)
+
+![Preview](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Vercel](https://vercel.com) (deploy)
+
+---
+
+## 🧠 Aprendizados
+
+- Utilização de `useState`
+- Manipulação de eventos com `onClick`
+- Estilização com `@keyframes`, `hover`, `focus`, responsividade
+- Deploy com Vercel
+- Estrutura básica de um projeto React moderno
+
+---
+
+## 📦 Como executar localmente
+
+1. Clone o repositório:
+
+    ```bash
+    git clone https://github.com/seu-usuario/seu-repo.git
+2.Instale as dependências:
+
+    ```bash
+     npm install
+
+3.Rode o projeto:
+
+    ```bash
+    npm run dev
