@@ -37,7 +37,7 @@ Este é meu primeiro projeto utilizando **React** com **Vite**. A aplicação é
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repo.git
+    git clone https://github.com/jpbrglp2/Primeiro_React
 2. Instale as dependências:
 
     ```bash
